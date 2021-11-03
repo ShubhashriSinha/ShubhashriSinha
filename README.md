@@ -1,4 +1,5 @@
-### Hi there, I'm Shubhashri Sinha 👋
+### Hi there, I'm Shubhashri Sinha ![image](https://user-images.githubusercontent.com/70423772/140185279-ea82b5a9-cc3b-4668-878f-a9999ce8b5a2.png)
+
 
 **ShubhashriSinha**
 
