@@ -1,6 +1,6 @@
 ### Hi there, I'm Shubhashri Sinha 👋
 
-**ShubhashriSinha/ShubhashriSinha**
+**ShubhashriSinha**
 
 Here are some ideas to get you started:
 
