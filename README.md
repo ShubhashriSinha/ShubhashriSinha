@@ -1,4 +1,4 @@
-### Hi there, I'm Shubhashri Sinha ![image](https://user-images.githubusercontent.com/70423772/140185279-ea82b5a9-cc3b-4668-878f-a9999ce8b5a2.png)
+### Hi there, I'm Shubhashri Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 **ShubhashriSinha**
