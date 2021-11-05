@@ -3,7 +3,6 @@
 
 **ShubhashriSinha**
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AWS and DevOps
 - 🌱 I’m currently learning everything that interests me
@@ -11,6 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to AWS, CI/CD, Linux, IAAC, Containers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhashri-sinha/)
 - ⚡ Fun fact: I like singing
+
 
 ## &#x1f4c8; GitHub Stats
 
