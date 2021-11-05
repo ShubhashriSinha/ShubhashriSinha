@@ -1,8 +1,6 @@
 ### Hi there, I'm Shubhashri Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-**ShubhashriSinha**
-
 
 - 🔭 I’m currently working on AWS and DevOps
 - 🌱 I’m currently learning everything that interests me
