@@ -1,15 +1,37 @@
-### Hi there, I'm Shubhashri Sinha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23010405&size=28&lines=Hello,+folks!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<p align="center">
+ <samp>
+  <strong>I'm Shubhashri Sinha, DevOps and Cloud Engineer, a technical blogger, 2x Red Hat Certified and a singer from India.</strong>
+  </samp>
+</p>
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on AWS and DevOps
-- 🌱 I’m currently learning everything that interests me
-- 👯 I’m looking to collaborate on CI/CD, Cloud
-- 💬 Ask me about anything related to AWS, CI/CD, Linux, IAAC, Containers
+<img align="right" src="./assets/selfportrait.gif" width="315" height="290" alt="Shubhashri Sinha"></img>
+
+- 🔭 I’m currently working on <strong>AWS</strong> and <strong>DevOps</strong>
+- 👯 I’m looking to collaborate on <strong>CI/CD</strong> and <strong>Cloud</strong>
+- 💬 Ask me about anything related to <strong>AWS</strong>, <strong>CI/CD</strong>, <strong>Linux</strong>, <strong>IAAC</strong> and <strong>Containers</strong>
+- 🏆 I am a <strong>Red Hat Certified Engineer</strong> and <strong>Red Hat Certified Specialist in Containers and Kubernetes</strong>
+- 🎯 2022 Goals: Earn more <strong>Global Certifications</strong> and learn <strong>cutting-edge technologies</strong>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhashri-sinha/)
-- ⚡ Fun fact: I like singing
+- ⚡ Fun fact: Passionate about Singing 🎤
 
+## 📝 Blog Posts
 
+- [OSPF Using Dijkstra's Algorithm](https://informaticworldhere.blogspot.com/2021/07/ospf-using-dijkstras-algorithm.html)<br/><sub>July 04, 2021</sub>
+- [ANSIBLE: Haproxy Configuration over AWS using Ansible](https://informaticworldhere.blogspot.com/2021/04/ansible-haproxy-configuration-over-aws.html)<br/><sub>April 28, 2021</sub>
+- [OpenShift](https://informaticworldhere.blogspot.com/2021/03/openshift.html)<br/><sub>March 13, 2021</sub>
+- [Jenkins](https://informaticworldhere.blogspot.com/2021/03/jenkins.html)<br/><sub>March 12, 2021</sub>
+- [Integration of LVM with Hadoop](https://informaticworldhere.blogspot.com/2021/03/integration-of-lvm-with-hadoop.html)<br/><sub>March 11, 2021</sub>
+- [Neural Networks](https://informaticworldhere.blogspot.com/2021/03/neural-networks.html)<br/><sub>March 05, 2021</sub>
+- [WordPress on the top of EC2 instance and AWS RDS](https://informaticworldhere.blogspot.com/2021/01/there-are-few-steps-you-need-to-follow.html)<br/><sub>January 16, 2021</sub>
+- [Industrial Use Case of KUBERNETES](https://informaticworldhere.blogspot.com/2021/01/industrial-use-case-of-kubernetes.html)<br/><sub>January 05, 2021</sub>
+- [ANSIBLE : How Industries are solving Challenges using Ansible](https://informaticworldhere.blogspot.com/2020/12/ansible-how-industries-are-solving.html)<br/><sub>December 01, 2020</sub>
+- [Create High Availability Architecture With AWS CLI](https://informaticworldhere.blogspot.com/2020/11/create-high-availability-architecture.html)<br/><sub>November 06, 2020</sub>
+- [AI in e-Commerce Sector](https://www.linkedin.com/pulse/ai-e-commerce-sector-shubhashri-sinha/)<br/><sub>October 29, 2020</sub>
+- [THE WORLD 0F IMAGINATIONS, HOPES AND DREAMS: DISNEY, SELECTED AWS](https://informaticworldhere.blogspot.com/2020/09/the-world-0f-imaginations-hopes-and.html)<br/><sub>September 21, 2020</sub>
 
 ## 🔧 Technologies & Tools
 
@@ -33,9 +55,21 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
 ## &#x1f4c8; GitHub Stats
 
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhashriSinha&show_icons=true&count_private=true" alt="ShubhashriSinha" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhashriSinha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhashriSinha&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+##
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😀</em>
+
+<p align="center">
+<a href="mailto:shub.sinha8@gmail.com">
+ <img  alt="Gmail" width="120" hight="90" src="./assets/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/shubhashri-sinha/" target="_blank">
+  <img  alt="Linkedin" width="140" hight="90" src="./assets/linkedin.png" />
 </p>
