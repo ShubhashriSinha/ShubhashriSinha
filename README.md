@@ -2,7 +2,7 @@
 
 <p align="center">
  <samp>
-  <strong>I'm Shubhashri Sinha, DevOps and Cloud Engineer, a technical blogger, 2x Red Hat Certified and a singer from India.</strong>
+  <strong>I'm Shubhashri Sinha, DevOps and Cloud Engineer, a technical blogger, 2x Red Hat Certified, AWS Certified Solutions Architect and a singer from India.</strong>
   </samp>
 </p>
 
